@@ -19,3 +19,6 @@ public static void main (String[]args)
 system.out.println("rahul motipalle");
 }
 
+webdriver d = new Webdriver
+d.manage.window
+
